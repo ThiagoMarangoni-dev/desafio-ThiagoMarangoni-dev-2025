@@ -41,7 +41,7 @@ class AbrigoAnimais {
 
         let dono = 'abrigo';
 
-        // Regra do Loco
+       
         if (animalNome === 'Loco') {
           dono = 'abrigo';
         } else if (pessoa1Ok && (!pessoa2Ok || contadorPessoa['pessoa 2'] >= 3)) {
